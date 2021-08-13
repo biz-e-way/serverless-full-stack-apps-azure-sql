@@ -1,4 +1,4 @@
-+name: Deploy Node project to Azure Function App
+name: Deploy Node project to Azure Function App
 
 on:
   [push]
